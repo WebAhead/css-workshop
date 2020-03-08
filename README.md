@@ -2,9 +2,6 @@
 
 ![css logo](https://user-images.githubusercontent.com/22002193/69540470-55a77800-0f8f-11ea-9898-0acd26043695.png)
 
-## What's CSS?# CSS
-
-![css logo](https://user-images.githubusercontent.com/22002193/69540470-55a77800-0f8f-11ea-9898-0acd26043695.png)
 
 ## What's CSS?
 
