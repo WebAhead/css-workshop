@@ -104,11 +104,9 @@ CSS
 
 _Notice_ that the `center` class applies to both the `h1` and the `p` tag, unlike the id selector it is not unique.
 
-## CSS RULES!
+## CSS Introduction!
 
-Let's practice some css rules, in this [link](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/) go over the exercises of the 'Basic CSS'  section. 
-
-If you are finished with the 'Basic CSS' section go to [Applied Visual Design](https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/) and solve these too.
+[Go to the following link](./css-intro.md), read through the document and finish the given tasks, it's a really good introduction for a beginner in CSS and a good refresher for someone who is knowledgeable in CSS (and hey might learn something new :wink:)
 
 ## Task 1 -- Animal Card
 
